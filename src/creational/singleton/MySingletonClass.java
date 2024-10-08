@@ -1,4 +1,4 @@
-package singleton;
+package creational.singleton;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

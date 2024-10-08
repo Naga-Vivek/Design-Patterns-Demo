@@ -1,4 +1,4 @@
-package singleton;
+package creational.singleton;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
